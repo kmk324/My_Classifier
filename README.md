@@ -45,6 +45,6 @@
 
    output:
 
-   ![output1](./my_classifier_output1.png)
+   ![output1](./my_classifier_output1.PNG)
 
    ![output2](./my_classifier_output2.png)
